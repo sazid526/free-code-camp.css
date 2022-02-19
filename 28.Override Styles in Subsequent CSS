@@ -1,0 +1,11 @@
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: blue;
+  }
+</style>
+<h1 class="blue-text pink-text" >Hello World!</h1>
