@@ -1,0 +1,7 @@
+[type = 'checkbox' ]{
+    margin: 10px 0px 15px 0px;
+  }
+  
+  <label><input id ="sazid" type="checkbox" name="personality" checked> Loving</label>
+    <label><input id ="sazid" type="checkbox" name="personality"> Lazy</label>
+    <label><input id ="sazid" type="checkbox" name="personality"> Energetic</label><br>
